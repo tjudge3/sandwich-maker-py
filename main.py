@@ -1,4 +1,4 @@
-#2022-02-26
+#This assignment was to create a sandwich maker. 
 import pyinputplus, calendar, re
 from datetime import date
 curr_date = date.today() #imports above to help make the magic happen
