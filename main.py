@@ -1,4 +1,4 @@
-#This assignment was to create a sandwich maker. 
+#Working with Arrays
 import pyinputplus, calendar, re
 from datetime import date
 curr_date = date.today() #imports above to help make the magic happen
