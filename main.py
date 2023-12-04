@@ -43,4 +43,4 @@ if san_order  == 'yes': #they have said yes, so now we begin
   print(f'Total price: $ {round(total_cost, 2)}') #here we print the total price of all the options together and number of sandwhiches
 elif san_order  == 'no':#if they said above that they don't want to order a sandwich, we come down here, thank them for stopping by, tell them they should come again and quit the program
   print('No problem. Thanks for stopping by. Please come again.\n')
-  quit()#we quit the program and kill the repl process
+  quit()#we quit the program and process
